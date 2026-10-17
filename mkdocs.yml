@@ -1,0 +1,28 @@
+site_name: "Plastic Injection Molding Shop Record"
+site_url: https://b2b-plastic-injection-reference.readthedocs.io/
+site_description: "Plastic Injection Molding Shop Record: preserved shop record index."
+site_author: "B2B Plastic Injection Archive"
+copyright: "Preserved shop record index."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
