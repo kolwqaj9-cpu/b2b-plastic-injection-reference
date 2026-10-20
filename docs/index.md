@@ -42,3 +42,11 @@ Preserved shop record for b2b-plastic-injection.com. The former plant is not quo
 | 4 | [Multi-Cavity Injection Mold](https://b2b-plastic-injection.com/articles/multi-cavity-injection-mold.html) | multi cavity injection mold |
 
 See the full index at [b2b-plastic-injection.com](https://b2b-plastic-injection.com/).
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Injection Mold Design — Specification Guide](https://b2b-plastic-injection.com/services/injection-mold-design.html)** — How injection molds are designed: cavity and core layout, gating and runners, cooling placement, ejection and lifters, and venting decisions that set cycle
+* **[Plastic Part Design for Molding — Specification Guide](https://b2b-plastic-injection.com/services/plastic-part-design-for-molding.html)** — A buyer's guide to plastic part design for molding: uniform wall, draft, ribs, bosses, radii, gate location, weld lines, and shrinkage allowance.
+* **[Mold Tooling Cost — Specification Guide](https://b2b-plastic-injection.com/services/mold-tooling-cost.html)** — Understand what drives injection mold tooling cost: cavity count, steel selection, side actions, surface finish, hot versus cold runners, and what a quote
